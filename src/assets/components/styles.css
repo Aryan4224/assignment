@@ -1,0 +1,16 @@
+
+.product{
+    width: 300px;
+    height: 300px;
+    border: solid;
+    margin: 20px;
+    background-color: grey;
+    
+   
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: white;
+}
